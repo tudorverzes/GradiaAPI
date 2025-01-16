@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qpy4zLwuZxrKJ4AciNL48nQq8zgtdrJ7JpZGOwW5Rsw=",
+  "Source": "boost-api",
+  "BasePath": "_content/boost-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
